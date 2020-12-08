@@ -1,0 +1,5 @@
+Hola mi nombre es Daniel Sanchez
+
+Naci en Colombia y tengo 24 años
+
+Hoy inicio mi ruta de aprendizaje en la escuela de Platzi en Data science
